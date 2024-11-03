@@ -61,7 +61,7 @@
   <a href="https://www.instagram.com/mannat.2077"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" width="40" height="40" style="border-radius: 0;" /></a>
   <a href="mailto:mannatbasra9399@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" style="border-radius: 0;" /></a>
   <a href="https://www.linkedin.com/in/mannatbasra"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" style="border-radius: 0;" /></a>
-  <a href="https://www.svgrepo.com/show/331630/upwork.svg"><img src="https://www.svgrepo.com/show/331630/upwork.svg" width="40" height="40" style="border-radius: 0;" /></a> <!-- Updated Upwork -->
+  <a href="https://www.upwork.com/freelancers/~0169f904a7f2b3fed5"><img src="https://www.svgrepo.com/show/331630/upwork.svg" width="40" height="40" style="border-radius: 0;" /></a> <!-- Updated Upwork -->
 </p>
 
 ### 🌍 **My Site**:
