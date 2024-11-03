@@ -30,6 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40" style="border-radius: 0;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" style="border-radius: 0;" /> <!-- Updated Photoshop -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" height="40" style="border-radius: 0;" /> <!-- Added Git -->
 </p>
 
 #### ☁️ Cloud Platforms & Databases:
@@ -68,4 +69,3 @@
 <p align="left" style="font-size: 24px; font-weight: bold; color: #4A90E2; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);">
   <a href="https://mannatgd.com" style="color: #4A90E2; text-decoration: none; transition: color 0.3s;">MannatGD.COM</a>
 </p>
-
