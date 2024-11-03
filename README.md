@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - **Instagram**: [mannat.2077](#)  
   ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
   
-- **Gmail**: [YourEmail@gmail.com](mailto:mannatbasra9399@gmail.com)  
+- **Gmail**: [Email](mailto:mannatbasra9399@gmail.com)  
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
 
 ---
