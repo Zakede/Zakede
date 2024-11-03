@@ -64,12 +64,12 @@ Here are some ideas to get you started:
 
 ### 📫 **Contact Me**:
 
-- **Instagram**: [YourInstagramHandle](#)  
+- **Instagram**: [mannat.2077](#)  
   ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
   
-- **Gmail**: [YourEmail@gmail.com](mailto:YourEmail@gmail.com)  
+- **Gmail**: [YourEmail@gmail.com](mailto:mannatbasra9399@gmail.com)  
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
 
 ---
 
-🌍 **Website**: [YourPortfolioLink.com](#)
+🌍 **Website**: [mannatgd.com](#)
