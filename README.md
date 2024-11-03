@@ -1,18 +1,3 @@
-<!--
-**Zakede/Zakede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hey, I'm Mannat!
 
 🚀 **Developer & Designer** blending **Python**, **Web Development**, and **Graphic Design** to create seamless, functional, and visually appealing digital solutions. I specialize in:
@@ -20,7 +5,7 @@ Here are some ideas to get you started:
 - 🐍 **Python** for automation, backend development, and scripting  
 - 🌐 **Web Development**: **HTML5**, **CSS3**, **JavaScript**, and frameworks like **FastHTML**  
 - 🤖 **Automation** with **Selenium** for web testing and task automation  
-- 🎨 **Graphic Design** using **Adobe Suite** and **Figma**  
+- 🎨 **Graphic Design** using **Figma** and various Adobe tools  
 - 🔧 **Version Control** with **Git/GitHub**  
 - 🎮 **Pixel Art** & **Motion Graphics** for unique branding  
 
@@ -30,46 +15,57 @@ Here are some ideas to get you started:
 
 ### 🔧 **Tech Stack**:
 
-- **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+#### 💻 Programming Languages:
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" style="border-radius: 0;" /> <!-- Replaced Rust -->
+</p>
 
-- **Tools & Frameworks**:  
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  
-  ![FastHTML](https://img.shields.io/badge/FastHTML-232F3E?style=flat&logo=html5&logoColor=white)  
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
-  ![Adobe Suite](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+#### ⚙️ Frameworks & Tools:
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" style="border-radius: 0;" /> <!-- Updated Photoshop -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" style="border-radius: 0;" />
+</p>
 
-- **Cloud Platforms & Databases**:  
-  ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
-  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)  
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+#### ☁️ Cloud Platforms & Databases:
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" style="border-radius: 0;" />
+</p>
 
-- **AI & Machine Learning**:  
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-  ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
+#### 🤖 AI & Machine Learning:
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width="40" height="40" style="border-radius: 0;" />
+</p>
 
-- **Operating Systems**:  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+#### 🖥️ Operating Systems:
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" style="border-radius: 0;" />
+</p>
 
 ---
 
 ### 📫 **Contact Me**:
+<p align="left">
+  <a href="https://www.instagram.com/mannat.2077"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" width="40" height="40" style="border-radius: 0;" /></a>
+  <a href="mailto:mannatbasra9399@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" style="border-radius: 0;" /></a>
+  <a href="https://www.linkedin.com/in/mannatbasra"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" style="border-radius: 0;" /></a>
+  <a href="https://www.svgrepo.com/show/331630/upwork.svg"><img src="https://www.svgrepo.com/show/331630/upwork.svg" width="40" height="40" style="border-radius: 0;" /></a> <!-- Updated Upwork -->
+</p>
 
-- **Instagram**: [mannat.2077](#)  
-  ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
-  
-- **Gmail**: [Email](mailto:mannatbasra9399@gmail.com)  
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
+### 🌍 **My Site**:
 
----
+<p align="left" style="font-size: 24px; font-weight: bold; color: #4A90E2; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);">
+  <a href="https://mannatgd.com" style="color: #4A90E2; text-decoration: none; transition: color 0.3s;">MannatGD.COM</a>
+</p>
 
-🌍 **Website**: [mannatgd.com](#)
